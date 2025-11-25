@@ -8,5 +8,5 @@ A simple terminal-based Tic Tac Toe game made using Python.
 
 ##  How to Run
 ```bash
-python mini.py
+python mini.py  
 
